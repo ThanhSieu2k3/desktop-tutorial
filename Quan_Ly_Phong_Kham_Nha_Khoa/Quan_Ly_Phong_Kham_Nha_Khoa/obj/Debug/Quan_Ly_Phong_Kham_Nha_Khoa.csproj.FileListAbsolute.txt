@@ -1,0 +1,17 @@
+C:\Users\admin\OneDrive\Desktop\Quan_Ly_Phong_Kham_Nha_Khoa\Quan_Ly_Phong_Kham_Nha_Khoa\obj\Debug\Quan_Ly_Phong_Kham_Nha_Khoa.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\Quan_Ly_Phong_Kham_Nha_Khoa\Quan_Ly_Phong_Kham_Nha_Khoa\obj\Debug\Quan_Ly_Phong_Kham_Nha_Khoa.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\OneDrive\Desktop\Quan_Ly_Phong_Kham_Nha_Khoa\Quan_Ly_Phong_Kham_Nha_Khoa\obj\Debug\Quan_Ly_Phong_Kham_Nha_Khoa.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\Quan_Ly_Phong_Kham_Nha_Khoa\Quan_Ly_Phong_Kham_Nha_Khoa\obj\Debug\Quan_Ly_Phong_Kham_Nha_Khoa.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\Quan_Ly_Phong_Kham_Nha_Khoa\Quan_Ly_Phong_Kham_Nha_Khoa\obj\Debug\Quan_Ly_Phong_Kham_Nha_Khoa.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\Quan_Ly_Phong_Kham_Nha_Khoa\Quan_Ly_Phong_Kham_Nha_Khoa\bin\Debug\Quan_Ly_Phong_Kham_Nha_Khoa.exe.config
+C:\Users\admin\OneDrive\Desktop\Quan_Ly_Phong_Kham_Nha_Khoa\Quan_Ly_Phong_Kham_Nha_Khoa\bin\Debug\Quan_Ly_Phong_Kham_Nha_Khoa.exe
+C:\Users\admin\OneDrive\Desktop\Quan_Ly_Phong_Kham_Nha_Khoa\Quan_Ly_Phong_Kham_Nha_Khoa\bin\Debug\Quan_Ly_Phong_Kham_Nha_Khoa.pdb
+C:\Users\admin\OneDrive\Desktop\Quan_Ly_Phong_Kham_Nha_Khoa\Quan_Ly_Phong_Kham_Nha_Khoa\obj\Debug\Quan_Ly_Phong_Kham_Nha_Khoa.exe
+C:\Users\admin\OneDrive\Desktop\Quan_Ly_Phong_Kham_Nha_Khoa\Quan_Ly_Phong_Kham_Nha_Khoa\obj\Debug\Quan_Ly_Phong_Kham_Nha_Khoa.pdb
+C:\Users\admin\OneDrive\Desktop\Quan_Ly_Phong_Kham_Nha_Khoa\Quan_Ly_Phong_Kham_Nha_Khoa\obj\Debug\Quan_Ly_Phong_Kham_Nha_Khoa.frmDoanhThu.resources
+C:\Users\admin\OneDrive\Desktop\Quan_Ly_Phong_Kham_Nha_Khoa\Quan_Ly_Phong_Kham_Nha_Khoa\obj\Debug\Quan_Ly_Phong_Kham_Nha_Khoa.frmDangNhap.resources
+C:\Users\admin\OneDrive\Desktop\Quan_Ly_Phong_Kham_Nha_Khoa\Quan_Ly_Phong_Kham_Nha_Khoa\bin\Debug\EntityFramework.dll
+C:\Users\admin\OneDrive\Desktop\Quan_Ly_Phong_Kham_Nha_Khoa\Quan_Ly_Phong_Kham_Nha_Khoa\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\OneDrive\Desktop\Quan_Ly_Phong_Kham_Nha_Khoa\Quan_Ly_Phong_Kham_Nha_Khoa\bin\Debug\EntityFramework.xml
+C:\Users\admin\OneDrive\Desktop\Quan_Ly_Phong_Kham_Nha_Khoa\Quan_Ly_Phong_Kham_Nha_Khoa\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\OneDrive\Desktop\Quan_Ly_Phong_Kham_Nha_Khoa\Quan_Ly_Phong_Kham_Nha_Khoa\obj\Debug\Quan_Ly_Phong_Kham_Nha_Khoa.csproj.CopyComplete
